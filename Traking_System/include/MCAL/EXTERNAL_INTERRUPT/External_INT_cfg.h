@@ -1,0 +1,13 @@
+/*
+ * External_INT_cfg.h
+ *
+ *  Created on: Jul 22, 2023
+ *      Author: User
+ */
+
+#ifndef INCLUDE_MCAL_EXTERNAL_INTERRUPT_EXTERNAL_INT_CFG_H_
+#define INCLUDE_MCAL_EXTERNAL_INTERRUPT_EXTERNAL_INT_CFG_H_
+
+
+
+#endif /* INCLUDE_MCAL_EXTERNAL_INTERRUPT_EXTERNAL_INT_CFG_H_ */
